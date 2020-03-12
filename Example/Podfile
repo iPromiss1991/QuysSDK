@@ -1,0 +1,13 @@
+use_frameworks!
+
+platform :ios, '8.0'
+
+target 'QuysSDK_Example' do
+  pod 'QuysSDK', :path => '../'
+
+  target 'QuysSDK_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
