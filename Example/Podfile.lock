@@ -1,0 +1,64 @@
+PODS:
+  - AFNetworking (3.1.0):
+    - AFNetworking/NSURLSession (= 3.1.0)
+    - AFNetworking/Reachability (= 3.1.0)
+    - AFNetworking/Security (= 3.1.0)
+    - AFNetworking/Serialization (= 3.1.0)
+    - AFNetworking/UIKit (= 3.1.0)
+  - AFNetworking/NSURLSession (3.1.0):
+    - AFNetworking/Reachability
+    - AFNetworking/Security
+    - AFNetworking/Serialization
+  - AFNetworking/Reachability (3.1.0)
+  - AFNetworking/Security (3.1.0)
+  - AFNetworking/Serialization (3.1.0)
+  - AFNetworking/UIKit (3.1.0):
+    - AFNetworking/NSURLSession
+  - Masonry (1.0.2)
+  - QuysSDK (0.1.0):
+    - Masonry
+    - Reachability
+    - SDWebImage
+    - YTKNetwork
+    - YYModel
+  - Reachability (3.2)
+  - SDWebImage (4.0.0):
+    - SDWebImage/Core (= 4.0.0)
+  - SDWebImage/Core (4.0.0)
+  - YTKNetwork (2.0.3):
+    - AFNetworking (~> 3.0)
+  - YYModel (1.0.4)
+
+DEPENDENCIES:
+  - Masonry
+  - QuysSDK (from `../`)
+  - Reachability
+  - SDWebImage
+  - YTKNetwork (~> 2.0.2)
+  - YYModel
+
+SPEC REPOS:
+  https://git.coding.net/CocoaPods/Specs.git:
+    - AFNetworking
+    - Masonry
+    - Reachability
+    - SDWebImage
+    - YTKNetwork
+    - YYModel
+
+EXTERNAL SOURCES:
+  QuysSDK:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  AFNetworking: 5e0e199f73d8626b11e79750991f5d173d1f8b67
+  Masonry: 7c429b56da9d4ee0bbb3ed77a5ea710d6a5df39e
+  QuysSDK: a68f4e936308bad11271bb7ecea6c3678adcec25
+  Reachability: 33e18b67625424e47b6cde6d202dce689ad7af96
+  SDWebImage: 76a6348bdc74eb5a55dd08a091ef298e56b55e41
+  YTKNetwork: c4b0c29c9d639dc050d475de69ee626d53eac598
+  YYModel: 2a7fdd96aaa4b86a824e26d0c517de8928c04b30
+
+PODFILE CHECKSUM: ad2584cce0da349886b1f8edba12096c41adb516
+
+COCOAPODS: 1.8.4

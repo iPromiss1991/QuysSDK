@@ -1,0 +1,1 @@
+../../../../../QuysSDK/Classes/quysAdvice/AdviceViews/OpenScreen/QuysAdOpenScreenDefaultView.h

@@ -1,0 +1,6 @@
+module QuysSDK {
+  umbrella header "QuysSDK-umbrella.h"
+
+  export *
+  module * { export * }
+}

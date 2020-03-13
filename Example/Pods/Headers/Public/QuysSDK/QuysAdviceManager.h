@@ -1,0 +1,1 @@
+../../../../../QuysSDK/Classes/quysAdvice/QuysManagers/QuysAdviceManager.h

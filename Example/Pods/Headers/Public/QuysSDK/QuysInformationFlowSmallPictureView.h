@@ -1,0 +1,1 @@
+../../../../../QuysSDK/Classes/quysAdvice/AdviceViews/InformationFlow/QuysInformationFlowSmallPictureView.h

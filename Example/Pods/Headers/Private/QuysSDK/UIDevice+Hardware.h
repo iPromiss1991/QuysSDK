@@ -1,0 +1,1 @@
+../../../../../QuysSDK/Classes/quysAdvice/Catrgory/UIDevice+Hardware.h

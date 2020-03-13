@@ -1,10 +1,16 @@
-use_frameworks!
+source 'https://git.coding.net/CocoaPods/Specs.git'
 
 platform :ios, '8.0'
 
 target 'QuysSDK_Example' do
+  use_modular_headers!
   pod 'QuysSDK', :path => '../'
-
+  pod 'Masonry'
+  pod 'YTKNetwork', '~> 2.0.2' #:inhibit_warnings => true #true 忽略警告
+  pod 'YYModel'
+  pod 'SDWebImage'
+  pod 'Reachability'
+  
   target 'QuysSDK_Tests' do
     inherit! :search_paths
 

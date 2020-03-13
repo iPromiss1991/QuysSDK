@@ -1,0 +1,39 @@
+{
+  "name": "QuysSDK",
+  "version": "0.1.0",
+  "summary": "趣元素广告统计SDK.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/iPromiss1991/QuysSDK",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "iPromiss1991": "2284469817@qq.com"
+  },
+  "source": {
+    "git": "https://github.com/iPromiss1991/QuysSDK.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "QuysSDK/Classes/**/*",
+  "dependencies": {
+    "Reachability": [
+
+    ],
+    "Masonry": [
+
+    ],
+    "YTKNetwork": [
+
+    ],
+    "YYModel": [
+
+    ],
+    "SDWebImage": [
+
+    ]
+  }
+}

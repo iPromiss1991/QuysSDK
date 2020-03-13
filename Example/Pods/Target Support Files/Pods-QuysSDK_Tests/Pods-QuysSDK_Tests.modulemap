@@ -1,0 +1,6 @@
+framework module Pods_QuysSDK_Tests {
+  umbrella header "Pods-QuysSDK_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}

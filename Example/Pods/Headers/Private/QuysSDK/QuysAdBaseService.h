@@ -1,0 +1,1 @@
+../../../../../QuysSDK/Classes/quysAdvice/Services/QuysAdBaseService.h
